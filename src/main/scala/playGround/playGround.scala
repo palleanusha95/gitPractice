@@ -1,5 +1,5 @@
 package playGround
 
-object playGround {
-
+object playGround extends App{
+println("Hi There")
 }
